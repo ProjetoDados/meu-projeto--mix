@@ -102,12 +102,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 20px;
   flex-wrap: wrap;
 }
 
 .marcas-logos-horizontal img {
-  height: 175px;
+  height: 160px;
   object-fit: contain;
   transition:  transform 0.3s ease;          /* evita que as imagens encolham demais */
   filter: drop-shadow(1px 1px 3px black);
